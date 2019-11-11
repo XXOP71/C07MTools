@@ -4,3 +4,4 @@ F:\DotNETLabs\C07MTools\C07MTools\obj\Debug\C07MTools.dll
 F:\DotNETLabs\C07MTools\C07MTools\obj\Debug\C07MTools.pdb
 F:\DotNETLabs\C07MTools\C07MTools\__OutDebug\C07MTools.dll
 F:\DotNETLabs\C07MTools\C07MTools\__OutDebug\C07MTools.pdb
+F:\DotNETLabs\C07MTools\C07MTools\__OutDebug\C07MTools.dll.config
