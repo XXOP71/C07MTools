@@ -19,3 +19,6 @@ F:\DotNETLabs\C07MTools\WndTester\__OutDebug\WndTester.exe
 F:\DotNETLabs\C07MTools\WndTester\__OutDebug\WndTester.pdb
 F:\DotNETLabs\C07MTools\WndTester\__OutDebug\C07MTools.dll
 F:\DotNETLabs\C07MTools\WndTester\__OutDebug\C07MTools.pdb
+F:\ZF01GitHubRepository\C07MTools\WndTester\__OutDebug\WndTester.exe.config
+F:\ZF01GitHubRepository\C07MTools\WndTester\obj\x86\Debug\WndTester.exe
+F:\ZF01GitHubRepository\C07MTools\WndTester\obj\x86\Debug\WndTester.pdb
